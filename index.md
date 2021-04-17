@@ -7,7 +7,6 @@ Mark Blastoffguy
 - Mercury High School, Los Angeles
 
 **Accomplishments:**
- Includes accomplishments:
 - Went into space three different times to mars.
 - Completed basic motion sickness training.
 - Found sample of microorganism on the planet mars and recived a medal of honor for it.
