@@ -1,5 +1,5 @@
 
-**Name:**
+_**Name:**_
 Mark Blastoffguy
 
 **Education:**
@@ -26,4 +26,5 @@ Mark Blastoffguy
 **Address:**
 - Phone:188-345-0076
 - Address: 434 SpaceWay, Los Angeles
+_- Email: lighterRaid@gmail.com_
 
