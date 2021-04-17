@@ -3,23 +3,23 @@ _**Name:**_
 Mark Blastoffguy
 
 **Education:**
--Astro Community College
--Mercury High School, Los Angeles
+- Astro Community College
+- Mercury High School, Los Angeles
 
 **Accomplishments:**
  Includes accomplishments:
--Went into space three different times to mars.
--Completed basic motion sickness training.
--Found sample of microorganism on the planet mars and recived a medal of honor for it.
+- Went into space three different times to mars.
+- Completed basic motion sickness training.
+- Found sample of microorganism on the planet mars and recived a medal of honor for it.
 
 **Skills:**
--Can operate panels on board a space craft singlehandedly.
--Speak russian and french for collaboration missions.
--Makes space food in spare time for trial runs.
+- Can operate panels on board a space craft singlehandedly.
+- Speak russian and french for collaboration missions.
+- Makes space food in spare time for trial runs.
 
 **Work History:**
--Worked in a Star Labs creating and testing space food.
--Security guard at strobelight factory.
+- Worked in a Star Labs creating and testing space food.
+- Security guard at strobelight factory.
 
 
 **Contact Information:**
